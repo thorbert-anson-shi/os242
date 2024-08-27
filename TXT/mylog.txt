@@ -2,6 +2,7 @@
 # ZCZC WEEK#  MINUTES logCode  Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
   ZCZC W00    20      L06      Read up on scripting
+  ZCZC W00    60      L06      Read OSC10e
   ZCZC W00    10      L03      Created GitHub repo
   ZCZC W00    10      L04      Created GitHub Pages
   ZCZC W00    100     L02      Class on 26/8/2024
