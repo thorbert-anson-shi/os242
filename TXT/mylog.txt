@@ -12,5 +12,7 @@
   ZCZC W00    10      L13      Finish assignment 4
   ZCZC W00    10      L14      Finish assignment 5
   ZCZC W00    10      L15      Finish assignment 6
-  ZCZC W00    10      L02      Class on 28/8/2024
+  ZCZC W00    100     L02      Class on 28/8/2024
   ZCZC W00    45      L31      Set up VirtualBox VM
+  ZCZC W00    45      L05      Studying for Quiz
+  ZCZC W00    20      L62      Set up Debian Guest on VirtualBox
