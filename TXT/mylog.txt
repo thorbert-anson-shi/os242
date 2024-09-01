@@ -1,3 +1,5 @@
+# Updated 2024-09-01 (YYYY-MM-DD)
+
 # Log Format
 # ZCZC WEEK#  MINUTES logCode  Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
@@ -16,3 +18,4 @@
   ZCZC W00    45      L31      Set up VirtualBox VM
   ZCZC W00    45      L05      Studying for Quiz
   ZCZC W00    20      L62      Set up Debian Guest on VirtualBox
+  ZCZC W00    60      L06      Read OSC10e
