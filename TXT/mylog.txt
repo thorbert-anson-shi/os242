@@ -7,15 +7,18 @@
   ZCZC W00    60      L06      Read OSC10e
   ZCZC W00    10      L03      Created GitHub repo
   ZCZC W00    10      L04      Created GitHub Pages
-  ZCZC W00    100     L02      Class on 26/8/2024
+  ZCZC W00    100     L02      Class on 2024-08-26
   ZCZC W00    10      L10      Finish assignment 1
   ZCZC W00    10      L11      Finish assignment 2
   ZCZC W00    10      L12      Finish assignment 3
   ZCZC W00    10      L13      Finish assignment 4
   ZCZC W00    10      L14      Finish assignment 5
   ZCZC W00    10      L15      Finish assignment 6
-  ZCZC W00    100     L02      Class on 28/8/2024
+  ZCZC W00    100     L02      Class on 2024-08-28
   ZCZC W00    45      L31      Set up VirtualBox VM
   ZCZC W00    45      L05      Studying for Quiz
   ZCZC W00    20      L62      Set up Debian Guest on VirtualBox
   ZCZC W00    60      L06      Read OSC10e
+  ZCZC W01    100     L02      Class on 2024-09-02
+  ZCZC W01    30      L64      Help friend with W01 assignments
+  ZCZC W01    10      L27      Created new SSH key for VM
