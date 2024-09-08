@@ -1,2 +1,2 @@
-github.com/thorbert-anson-shi/os242/blob/main/TXT/mylog.txt
-github.com/thorbert-anson-shi/
+[LOGS](/TXT/mylog.txt)
+[GitHub](github.com/thorbert-anson-shi/)
