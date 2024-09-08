@@ -1,4 +1,4 @@
-# Updated 2024-09-01 (YYYY-MM-DD)
+# Updated 2024-09-08 (YYYY-MM-DD)
 
 # Log Format
 # ZCZC WEEK#  MINUTES logCode  Description
@@ -23,3 +23,11 @@
   ZCZC W01    30      L64      Help friend with W01 assignments
   ZCZC W01    10      L27      Created new SSH key for VM
   ZCZC W01    100     L02      Class on 2024-09-04
+  ZCZC W01    60      L04      Updated index.md and links.09/08/2024
+  ZCZC W01    30      L06      Read OSC10e (Ch.18: Virtualization)  
+  ZCZC W01    20      L11      Finish assignment 1
+  ZCZC W01    10      L12      Finish assignment 2
+  ZCZC W01    10      L13      Finish assignment 3
+  ZCZC W01    30      L14      Finish assignment 4
+  ZCZC W01    10      L15      Finish assignment 5
+  ZCZC W01    10      L41      Updated mylog.txt
