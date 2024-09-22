@@ -45,3 +45,16 @@
   ZCZC W02    30      L16      Finish assignment 6
   ZCZC W02    10      L17      Finish assignment 7
   ZCZC W02    60      L05      Finished all pop quiz assignments
+  ZCZC W03    100     L02      Class on 2024-18-09
+  ZCZC W03    45      L06      Read OSC10e (Ch.13: File systems)
+  ZCZC W03    20      L62      Create and revalidate VM backup
+  ZCZC W03    20      L26      Regenerate and revalidate GnuPG key pair
+  ZCZC W03    30      L11      Finish assignment 1
+  ZCZC W03    15      L12      Finish assignment 2
+  ZCZC W03    45      L13      Finish assignment 3
+  ZCZC W03    10      L14      Finish assignment 4
+  ZCZC W03    30      L15      Finish assignment 5
+  ZCZC W03    20      L43      Reviewed some friends' links.md files
+  ZCZC W03    45      L09      Finished POP QUIZ assignments
+  ZCZC W03    10      L41      Updated mylog.txt
+  ZCZC W03    100     L06      Read OSC10e (Ch.14: File system implementation)
