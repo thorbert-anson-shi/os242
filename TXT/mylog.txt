@@ -58,3 +58,12 @@
   ZCZC W03    45      L09      Finished POP QUIZ assignments
   ZCZC W03    10      L41      Updated mylog.txt
   ZCZC W03    100     L06      Read OSC10e (Ch.14: File system implementation)
+  ZCZC W04    100     L02      Class on 2024-23-09
+  ZCZC W04    100     L02      Class on 2024-25-09
+  ZCZC W04    20      L11      Finish assignment 1
+  ZCZC W04    20      L12      Finish assignment 2
+  ZCZC W04    20      L13      Finish assignment 3
+  ZCZC W04    20      L14      Finish assignment 4
+  ZCZC W04    20      L15      Finish assignment 5
+  ZCZC W04    25      L05      Finished all pop quiz assignments
+  ZCZC W04    30      L43      Reviewed some friends' links.md files
