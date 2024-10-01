@@ -10,3 +10,5 @@ permalink: LINKS/
 * [How do GPG and SSH keys work?](https://www.geeksforgeeks.org/asymmetric-key-cryptography/) - Cool maths stuff I've learned and forgotten multiple times over
 * [What are bash aliases?](https://tldp.org/LDP/abs/html/aliases.html) - Because I've had to fix some stuff relating to aliases
 * [The big GPT](https://chatgpt.com/) - Very helpful tool to understand cryptic scripts and commands
+* [Goddamn idiotic truckload of sh*t: when it breaks](https://git-scm.com/docs) - Hey, Linus said that; I'm just corroborating what he said
+* [Regex tester](https://regexr.com) - Practice witchcraft in the comfort of your own computer
