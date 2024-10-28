@@ -76,3 +76,12 @@
   ZCZC W05    20      L16      Finish assignment 6
   ZCZC W05    60      L05      Finish all pop quiz assignments
   ZCZC W05    10      L62      Create VM backup for pop quiz assignment
+  ZCZC W06   100      L02      Class on 2024-10-23
+  ZCZC W06    60      L05      Worked on setting up Docusaurus page
+  ZCZC W06    10      L11      Finish assignment 1
+  ZCZC W06    10      L12      Finish assignment 2
+  ZCZC W06    10      L13      Finish assignment 3
+  ZCZC W06    10      L14      Finish assignment 4
+  ZCZC W06    10      L15      Finish assignment 5
+  ZCZC W06    50      L05      Finished all pop quiz assignments (apart from Docusaurus)
+  ZCZC W06    20      L06      Read up on virtual memory and memory allocation online
