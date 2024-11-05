@@ -1,4 +1,4 @@
-# Updated 2024-09-08 (YYYY-MM-DD)
+# Updated 2024-11-05 (YYYY-MM-DD)
 
 # Log Format
 # ZCZC WEEK#  MINUTES logCode  Description
@@ -85,3 +85,11 @@
   ZCZC W06    10      L15      Finish assignment 5
   ZCZC W06    50      L05      Finished all pop quiz assignments (apart from Docusaurus)
   ZCZC W06    20      L06      Read up on virtual memory and memory allocation online
+  ZCZC W07   100      L02      Class on 2024-11-04
+  ZCZC W07    30      L05      Set up Docusaurus blog
+  ZCZC W07     5      L11      Finish assignment 1
+  ZCZC W07     5      L12      Finish assignment 2
+  ZCZC W07    30      L13      Finish assignment 3
+  ZCZC W07    20      L43      Reviewed some friends' links.md files
+  ZCZC W07    10      L41      Updated mylog.txt
+  ZCZC W07    20      L06      Light reading on GPG symmetric encryption

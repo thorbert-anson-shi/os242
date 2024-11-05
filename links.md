@@ -14,3 +14,5 @@ permalink: LINKS/
 * [Regex tester](https://regexr.com) - Practice witchcraft in the comfort of your own computer
 * [Linux man pages online](https://man7.org/linux/man-pages/) - For when Stackoverflow doesn't have your answers
 * [Geeks for Geeks - C Pointers](https://www.geeksforgeeks.org/c-pointers/?ref=shm) - In case you forget what the asterisks and ampersands mean
+* [Docusaurus Documentation](https://docusaurus.io/docs) - It's a cool project, try it out some time
+* [What is Shared Memory?](https://www.geeksforgeeks.org/what-is-a-shared-memory/) - If you're like me and need a slightly dumbed down explanation
